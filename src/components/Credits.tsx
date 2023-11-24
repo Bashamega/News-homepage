@@ -3,7 +3,7 @@ import React from 'react';
 
 const CreditFooter: React.FC = () => {
   return (
-    <footer className="bg-gray-200 p-4 text-center absolute bottom-0 w-screen">
+    <footer className="bg-gray-200 p-4 text-center fixed bottom-0 w-screen">
       <p className="text-sm text-gray-600">
         Created with{' '}
         <span role="img" aria-label="Heart">
